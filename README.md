@@ -91,6 +91,12 @@ const Ajmal = {
 
 <br/>
 
+## Highlights
+* Create DSA explanation videos on YouTube, focusing on clear, step-by-step problem solving
+* Solved 60+ DSA problems on LeetCode
+* Share technical learnings and project updates regularly on LinkedIn
+
+<br/>
 
 ## Connect With Me
 
@@ -99,10 +105,6 @@ const Ajmal = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]()
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
 
-
-* Create DSA explanation videos on YouTube, focusing on clear, step-by-step problem solving
-* Solved 60+ DSA problems on LeetCode
-* Share technical learnings and project updates regularly on LinkedIn
 
 <br/>
 
