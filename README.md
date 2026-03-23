@@ -99,7 +99,7 @@ const Ajmal = {
 
 ## Highlights
 * Create DSA explanation videos on YouTube, focusing on clear, step-by-step problem solving
-* Solved 65+ DSA problems on LeetCode
+* Solved 70+ DSA problems on LeetCode
 * Share technical learnings and project updates regularly on LinkedIn
 
 <br/>
