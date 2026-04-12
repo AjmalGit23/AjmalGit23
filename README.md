@@ -20,12 +20,12 @@ const Ajmal = {
     backEnd: {
       runtime: ["Node.js"],
       framework: ["Express.js"],
-      authentication: [""],
+      authentication: ["jwt"],
       security: ["bcrypt"]
     },
     databases: ["MongoDB", "MySQL"],
     tools: ["Git", "GitHub", "Postman", "VS Code"],
-    deployments: [""]
+    deployments: ["vercel"]
   },
   funFact: "Favourite emoji: 💀 (because coding is sometimes *that* dramatic)"
 };
