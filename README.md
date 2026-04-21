@@ -107,40 +107,39 @@ const Ajmal = {
 ## Connect With Me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajmal-hussain92/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/DaliusAjmal/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/AjmalAlgo/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ajmal-hussain.vercel.app/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
+<!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() -->
 
 
 <br/>
 
-## Projects
+<!-- ## Projects -->
 
 <br/>
 
 <details>
-<summary><h2> View Certificates (Toggle Here) </h2></summary>
-
-<img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769894778/Figma_Certificate_Udemy_b70tw8.jpg" width="260" alt="Udemy Figma Certificate"/>
-<img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769895393/Full_Stack_Development_Virtual_Internship_EduSkills_hjmy54.jpg" width="260" alt="EduSkills AICTE Full-Stack Internship Certificate"/>
-<img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769896830/Advanced_C__SimpliLearn_kdcufu.jpg" width=300 alt="Advanced C++ SimpliLearn Certificate"/>
-<img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769896633/Data_Analytics_with_PowerBI_Rai_VAC_rin2xn.jpg" width="270" alt="Data Analytics using Power BI Certificate"/>
-<img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769896950/Generative_AI_Course_SheKunj_wnn2o2.jpg" width="270" alt="SheKunj Generative AI Certificate"/>
-<img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769897136/Kali_Linux_Basics_SimpliLearn_og4cmp.jpg" width="270" alt="SimpliLearn Kali Linux Basics Certificate"/>
-
+  <summary><h2> View Certificates (Toggle Here) </h2></summary>
+  
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769894778/Figma_Certificate_Udemy_b70tw8.jpg" width="260" alt="Udemy Figma Certificate"/>
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769895393/Full_Stack_Development_Virtual_Internship_EduSkills_hjmy54.jpg" width="260" alt="EduSkills AICTE Full-Stack Internship Certificate"/>
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769896830/Advanced_C__SimpliLearn_kdcufu.jpg" width=300 alt="Advanced C++ SimpliLearn Certificate"/>
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769896633/Data_Analytics_with_PowerBI_Rai_VAC_rin2xn.jpg" width="270" alt="Data Analytics using Power BI Certificate"/>
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769896950/Generative_AI_Course_SheKunj_wnn2o2.jpg" width="270" alt="SheKunj Generative AI Certificate"/>
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769897136/Kali_Linux_Basics_SimpliLearn_og4cmp.jpg" width="270" alt="SimpliLearn Kali Linux Basics Certificate"/>
 </details>
 
 <br/>
 
-![GitHub Contribution Snake Dark](https:///output/github-contribution-grid-snake-dark.svg)
+<!-- ![GitHub Contribution Snake Dark](https:///output/github-contribution-grid-snake-dark.svg) -->
 
 <!--https://github.com/marwin1991/profile-technology-icons-->
 </br>
 
-## Trophies
+<!--## Trophies
 [![Trophies](https://github)](https://github.com/ajmalhussain92)
 
-</br>
+</br> -->
 <!--
 ## Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=Priyasha-Yadav\&show_icons=true\&rank_icon=github&theme=highcontrast&border_color=00000000)](https://github.com/Priyasha-Yadav) 
