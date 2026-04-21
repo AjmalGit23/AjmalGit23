@@ -160,11 +160,11 @@ const Ajmal = {
 </br>
 </br>
 
-## My GitHub Pets
+<!-- ## My GitHub Pets -->
 
-<a href="https://github.com/AjmalGit23/gitanimals">
-  <img src="https://render.gitanimals.org/lines/ajmalhussain92" width="5000" height="300" padding="10"/>
-</a>
+<!-- <a href="https://github.com/ajmalhussain92/gitanimals">
+  <img src="https://render.gitanimals.org/lines/ajmalhussain92" width="5000" height="300"/>
+</a> -->
 
 <!--
 <a href="https://github.com/ajmalhussain92/gitanimals">
