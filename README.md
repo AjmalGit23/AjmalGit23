@@ -1,8 +1,10 @@
 # Heya! 👋 I'm Md Ajmal Hussain
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+profile!)
 
-I’m Ajmal — a full-stack developer passionate about building user-friendly web applications. I work primarily with modern JavaScript frameworks, backend APIs, and databases to turn ideas into working products.  
-I enjoy late-night problem solving, exploring AI-driven technologies, and continuously pushing myself to write better, cleaner code. Curious like a child, learning like a student, and building like an engineer — always growing, always creating 🚀  
+Hi, I'm Ajmal Hussain — a Full Stack Software Developer based in Ahmedabad, India. 
+I specialize in building modern web applications using React, Node.js, MongoDB, and Tailwind CSS. 
+I focus on creating clean, scalable, and user-friendly solutions while following best development practices. 
+Alongside development, I actively strengthen my problem-solving skills through Data Structures and Algorithms using C++.
 
 <i>PS: No world domination plans — just clean code and good ideas.</i>
 
