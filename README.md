@@ -115,12 +115,11 @@ const Ajmal = {
 <!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() -->
 
 
-<br/>
-
 <!-- ## Projects -->
 
 <br/>
 
+#
 <details>
   <summary><h2> View Certificates (Toggle Here) </h2></summary>
   
@@ -130,9 +129,10 @@ const Ajmal = {
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769896633/Data_Analytics_with_PowerBI_Rai_VAC_rin2xn.jpg" width="270" alt="Data Analytics using Power BI Certificate"/>
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769896950/Generative_AI_Course_SheKunj_wnn2o2.jpg" width="270" alt="SheKunj Generative AI Certificate"/>
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769897136/Kali_Linux_Basics_SimpliLearn_og4cmp.jpg" width="270" alt="SimpliLearn Kali Linux Basics Certificate"/>
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1779276550/DSA_Cplus_ChaiCode___CoC_egrj1n.jpg" width="270" alt="DSA wit C++ Certificate"/>
 </details>
 
-<br/>
+#
 
 <!-- ![GitHub Contribution Snake Dark](https:///output/github-contribution-grid-snake-dark.svg) -->
 
@@ -148,8 +148,6 @@ const Ajmal = {
 [![Stats](https://github-readme-stats.vercel.app/api?username=Priyasha-Yadav\&show_icons=true\&rank_icon=github&theme=highcontrast&border_color=00000000)](https://github.com/Priyasha-Yadav) 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyasha-Yadav&layout=compact&theme=highcontrast&hide_border=true&timestamp=1691123)](https://github.com/Priyasha-Yadav)
 -->
-
-</br>
 
 ## Also Find Me On
 [![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com//)
@@ -179,17 +177,14 @@ const Ajmal = {
 </a>
 -->
 
+<!--
 ## Current Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)
-![Visits Badge](https://profile-counter.deno.dev/:ajmalhussain92:/count.svg)
+![Visits Badge](https://profile-counter.deno.dev/:ajmalhussain92:/count.svg) -->
 
 <!---
 <a href="https://app.daily.dev/priyashayadav"><img src="https://api.daily.dev/devcards/v2/1Lf1eC3xtm6yG7SuAA0Bt.png?type=wide&r=dgy" width="652" alt="Priyasha Yadav's Dev Card"/></a>
 --->
-
-
-</br>
-</br>
 
 <p align="center">
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1770520154/Final_Edit_Gorge_vuigf3.jpg" width="500" style="border-radius: 50%;">
